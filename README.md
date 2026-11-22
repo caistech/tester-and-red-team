@@ -61,5 +61,4 @@ attached.
 
 ## License
 
-No license file is attached yet — treat this as "ask before redistributing commercially" until
-one is added. Free to use for testing your own product.
+[MIT](./LICENSE) — use it, modify it, build on it, commercially or not.
